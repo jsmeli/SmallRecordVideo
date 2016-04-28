@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RecordVideo">
+        <attr name="witdh" format="integer"/>
+        <attr name="height" format="integer"/>
+        <attr name="open_camera" format="boolean"/>
+        <attr name="timeLenght" format="integer"/>
+    </declare-styleable>
+</resources>
